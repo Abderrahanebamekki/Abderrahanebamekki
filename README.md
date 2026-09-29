@@ -21,6 +21,12 @@ I'm a software engineer with ~2 years of professional experience building scalab
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+
 ### Messaging & Communication
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -41,11 +47,10 @@ I'm a software engineer with ~2 years of professional experience building scalab
 
 - **Reactive programming:** Spring WebFlux, Project Reactor
 - **Distributed patterns:** Saga, Outbox, Redis Streams, Kafka consumer groups
-- **AI backend:** LLM integration, AI agents, prompt engineering
+- **AI backend:** LLM integration, AI agents (LangChain, LangGraph), RAG, prompt engineering
 - **APIs & services:** REST, gRPC, event-driven microservices
 
 ---
-
 
 ## Connect With Me
 
