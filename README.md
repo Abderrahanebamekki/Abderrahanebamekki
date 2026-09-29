@@ -2,7 +2,7 @@
 
 **Backend Engineer** | Distributed Systems | AI Backend
 
-📍 Based in Alger, Algeria
+📍 Based in Jijel, Algeria
 🎓 Master's student at the University of Constantine 2
 🚀 AI Backend Engineer intern at **FlyRank**, building backend systems and LLM-powered agents
 
@@ -19,8 +19,7 @@ I'm a software engineer with ~2 years of professional experience building scalab
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Messaging & Communication
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -46,6 +45,7 @@ I'm a software engineer with ~2 years of professional experience building scalab
 - **APIs & services:** REST, gRPC, event-driven microservices
 
 ---
+
 
 ## Connect With Me
 
